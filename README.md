@@ -20,7 +20,7 @@ this is my walkthrough on how to use geneious for my bioinformatics thesis class
 # 3rd: how to view documents and sequences.
 - To view your documents **select a folder**, this will show all the documents in that folder as well as descriptions for each of the files. In the viewer window at the bottom, you will be able to see the visualization of that file. It can be a protein, a nucleotide sequence, a circular sequence, alignments, and many more. 
 - you can **expand** or pop out the document viewer by clicking the 3 buttons in the top right of the viewer window. you can add more panels by pressing split.
-- there are tabs in the viewer window "sequence view" with the sequence in visualized format, "annotations" showing notes and features added such as exons and promoters. These may already be present if you downloaded your sequence from NCBI. However, if you are working on an unknown sequence, you will have to annotate it yourself. The "linage" tab will tell you where your data comes from, and "info" will tell you access time, modification, description, and soon. 
+- there are tabs in the viewer window "sequence view" with the sequence in visualized format, "annotations" showing notes and features added such as exons and promoters. These may already be present if you downloaded your sequence from NCBI. However, if you are working on an unknown sequence, you will have to annotate it yourself. The "lineage" tab will tell you where your data comes from, and "info" will tell you access time, modification, description, and soon. 
 - to **zoom** into a sequence you can use the magnifying glass, or you can zoom in with your mouse. this will bring you up until you see the nucleotides in the sequence. you can also highlight to zoom. 
 - in the "general" area on the very right you can change things such as nucleotide color, translation, and restriction sites, as well as the complement to the sequence. 
 - there is also a graphs tab that can allow you to see GC content
@@ -31,7 +31,7 @@ this is my walkthrough on how to use geneious for my bioinformatics thesis class
 ![image](https://github.com/angcarcione/Geneious-Walk-Through/assets/151074947/fd4805d7-9ece-4012-b5df-be8a6a1fd507)
 
 
-# 4th: preforming analyses 
+# 4th: performing analyses 
 - first, select your file of interest, and then click one of the options of analysis at the **top in the toolbar**. These include **BLAST, WorkFLows, Assemble/align, tree, primers, and cloning**.
 - the toolbar is full of shortcuts to many common analyses used in bioinformatics
 - Hovering each section in the toolbar will show further analyses you can do in each section. For example, if you hover over cloning, it will give you specific types of cloning, like restriction cloning. 
